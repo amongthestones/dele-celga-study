@@ -7,8 +7,7 @@
 
 One of the most distinctive features of Galician is its system of article contractions. Mastering these is essential from day one.
 
-**Time to complete:** 2 weeks
-**Prerequisites:** Basic Spanish knowledge
+**Prerequisites:** Basic Spanish knowledge helps but isn't required.
 
 ---
 

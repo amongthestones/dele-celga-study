@@ -236,31 +236,15 @@
 
 ---
 
-## RECOMMENDED STUDY SCHEDULE
+## Study Progression (Suggested)
 
-### Months 1-6: Foundation
-- Complete Aula de Galego 1-2
-- Daily vocabulary practice
-- Listen to Radio Galega (15 min/day)
-- Read simple texts
+**Foundations:** Work through Aula de Galego 1–2. Build vocabulary daily. Add 15 minutes of Radio Galega or short Galician-language videos.
 
-### Months 7-12: Development
-- Aula de Galego 3
-- Watch TVG with subtitles
-- Start reading news articles
-- Find a language partner
+**Skills development:** Move to Aula de Galego 3. Watch TVG with subtitles. Read Galician news articles. Find a language partner if possible.
 
-### Months 13-18: Preparation
-- Focus on CELGA 2 format
-- Practice past exams
-- Join a preparation course
-- Increase speaking practice
+**Exam targeting:** Switch focus to CELGA 2 format specifically. Work through past exam papers. Consider a preparation course. Increase speaking practice.
 
-### Months 19-24: Final Prep
-- Mock exams weekly
-- Review all grammar
-- Polish weak areas
-- Build confidence
+**Final preparation:** Timed mock exams. Grammar and vocabulary review. Focused work on weak areas.
 
 ---
 
@@ -288,15 +272,6 @@
 4. **Learn the patterns** - hijo→fillo, noche→noite
 5. **Immerse yourself** - Use Galician media daily
 6. **Visit Galicia** - Nothing beats real practice
-
----
-
-## NOTES
-
-Add your own resources here:
-- _______________________
-- _______________________
-- _______________________
 
 ---
 

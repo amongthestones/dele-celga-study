@@ -5,10 +5,9 @@
 
 ## Overview
 
-The present tense in Galician is similar to Spanish but with key differences in endings and some irregular forms. Your Spanish will help, but pay attention to the differences!
+The present tense in Galician is similar to Spanish but with key differences in endings and some irregular forms. Spanish helps as a scaffold, but watch the differences closely.
 
-**Time to complete:** 3 weeks
-**Prerequisites:** Module 1 (Articles)
+**Prerequisites:** Module 1 (Articles).
 
 ---
 

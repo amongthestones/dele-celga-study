@@ -5,7 +5,7 @@
 
 ## Overview
 
-This module covers the most essential vocabulary for B1 level, organized by theme. Your Spanish knowledge helps, but pay attention to the differences!
+This module covers core vocabulary for CELGA 2 (B1), organized by theme. Spanish knowledge helps as a scaffold, but watch the differences carefully.
 
 ---
 

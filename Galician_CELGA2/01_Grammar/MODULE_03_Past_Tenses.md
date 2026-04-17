@@ -7,8 +7,7 @@
 
 Galician has a past tense system similar to Spanish but with distinct forms. The main past tenses for CELGA 2 are the simple past (pretérito) and imperfect.
 
-**Time to complete:** 4 weeks
-**Prerequisites:** Modules 1-2
+**Prerequisites:** Modules 1–2.
 
 ---
 
