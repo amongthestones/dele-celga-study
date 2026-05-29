@@ -134,7 +134,7 @@ What's the Galician word?
     a) ahora  b) aora  c) agora  d) aghora
 
 34. puerta
-    a) puerta  b) porta  c) porta  d) puorta
+    a) puerta  b) porta  c) porto  d) puorta
 
 35. leche
     a) leche  b) leite  c) leiche  d) lite
@@ -174,7 +174,7 @@ What's the Galician word?
     a) por favor  b) por fabor  c) se fai favor  d) se fas favor
 
 46. "Good morning" is:
-    a) bos días  b) bo día  c) buen día  d) bon día
+    a) bos días  b) buenos días  c) buen día  d) bon día
 
 47. "Goodbye" in Galician is:
     a) adiós  b) adeus  c) adeu  d) adios
@@ -200,7 +200,7 @@ Read the following text and answer the questions:
 
 Chámome María e teño vinte e catro anos. Son de Ourense pero agora vivo en Santiago de Compostela, onde estudo na universidade.
 
-A miña familia é bastante grande. O meu pai chámase Xosé e traballa nunha fábrica. A miña nai chámase Rosa e é profesora nunha escola. Teño dous irmáns: o meu irmán maior, Carlos, ten vinte e oito anos e vive en Madrid co súa muller. A miña irmá pequena, Ana, ten dezaoito anos e aínda vive cos meus pais en Ourense.
+A miña familia é bastante grande. O meu pai chámase Xosé e traballa nunha fábrica. A miña nai chámase Rosa e é profesora nunha escola. Teño dous irmáns: o meu irmán maior, Carlos, ten vinte e oito anos e vive en Madrid coa súa muller. A miña irmá pequena, Ana, ten dezaoito anos e aínda vive cos meus pais en Ourense.
 
 Os meus avós viven nunha aldea preto de Ourense. O meu avó, Manuel, ten oitenta anos e aínda traballa na súa horta. A miña avoa, Carme, ten setenta e sete anos e fai o mellor pan do mundo.
 
@@ -247,7 +247,7 @@ Write a short text (80-100 words) about yourself and your family. Include:
 ### Section B: Vocabulary
 26-b, 27-c, 28-b, 29-b, 30-c, 31-b, 32-b, 33-c, 34-b, 35-b
 36-b, 37-c, 38-b, 39-c, 40-c, 41-b, 42-b, 43-b
-44-b, 45-a, 46-b, 47-b, 48-b, 49-b, 50-b
+44-b, 45-a, 46-a, 47-b, 48-b, 49-b, 50-b
 
 ### Section C: Reading
 51-c, 52-c, 53-b, 54-b, 55-c
@@ -256,12 +256,14 @@ Write a short text (80-100 words) about yourself and your family. Include:
 
 ## SCORING GUIDE
 
-| Score | Level |
-|-------|-------|
-| 85-100 | Strong A2+ - Ready for B1 |
-| 70-84 | Solid A2 - Good foundation |
-| 55-69 | A2- - Need more practice |
-| Below 55 | Below A2 - Review basics |
+CELGA 2 targets CEFR **B1**. This diagnostic measures how ready you are for that level; use it to direct your study, not as a verdict.
+
+| Score | Rough assessment |
+|-------|------------------|
+| 85-100 | Approaching/at B1 — focus on exam format and your weaker sections |
+| 70-84 | Solid A2, B1 in reach — keep building grammar and vocabulary |
+| 55-69 | Mid A2 — work through the grammar and vocabulary modules before exam prep |
+| Below 55 | Foundations first — review articles, present/past tenses and core vocabulary |
 
 ## MY RESULTS
 

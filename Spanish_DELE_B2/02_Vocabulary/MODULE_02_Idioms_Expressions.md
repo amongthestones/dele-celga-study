@@ -70,7 +70,7 @@ B2 candidates are expected to recognize common idioms in listening and reading, 
 | Expression | Meaning | Example |
 |------------|---------|---------|
 | ser un pez gordo | to be a big shot | Es un pez gordo de la empresa. |
-| ser el borrón negro | to be the black sheep | Es el borrón negro de la familia. |
+| ser la oveja negra | to be the black sheep | Es la oveja negra de la familia. |
 | llevarse como el perro y el gato | to fight like cats and dogs | Se llevan como el perro y el gato. |
 | estar como pez en el agua | to be in one's element | Está como pez en el agua en su nuevo trabajo. |
 | matar dos pájaros de un tiro | to kill two birds with one stone | Así matamos dos pájaros de un tiro. |

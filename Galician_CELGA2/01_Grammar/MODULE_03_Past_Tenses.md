@@ -158,12 +158,14 @@ This tense expresses completed actions in the past.
 
 | Person | Conjugation |
 |--------|-------------|
-| eu | **viñen** |
+| eu | **vin** |
 | ti | **viñeches** |
 | el/ela | **veu** |
 | nós | **viñemos** |
 | vós | **viñestes** |
 | eles/elas | **viñeron** |
+
+> ⚠️ The first person is **eu vin** (irregular — *not* "viñen"). Don't confuse it with *ver* (to see): *vir* → eu **vin**, el **veu**; *ver* → eu **vin**, el **viu**.
 
 ### DICIR (to say)
 
@@ -314,7 +316,7 @@ For ongoing or habitual past actions.
 | puse | puxen | I put |
 | quise | quixen | I wanted |
 | supe | souben | I knew |
-| vine | viñen | I came |
+| vine | vin | I came |
 | dije | dixen | I said |
 
 ---
@@ -375,7 +377,7 @@ Choose the correct tense:
 1. fun  2. tiveches  3. fixo  4. estivemos  5. viñestes  6. dixeron
 
 ### Exercise 3:
-1. vivía  2. ía  3. tiña  4. trabballabamos
+1. vivía  2. ía  3. tiña  4. traballabamos
 
 ### Exercise 4:
 1. falei (completed action, specific time)
@@ -401,7 +403,7 @@ Choose the correct tense:
 - pux- (poñer)
 - quix- (querer)
 - soub- (saber)
-- viñ- (vir)
+- viñ- (vir — but note the irregular 1st person *eu vin*)
 - dix- (dicir)
 
 **The endings for these irregular verbs follow a pattern:**

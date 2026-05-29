@@ -214,7 +214,7 @@
 |---------|----------|
 | Hello | **Ola** |
 | Goodbye | **Adeus / Ata logo** |
-| Good morning | **Bo día** |
+| Good morning | **Bos días** |
 | Good afternoon | **Boas tardes** |
 | Good night | **Boas noites** |
 | Please | **Por favor** |

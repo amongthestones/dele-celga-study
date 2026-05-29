@@ -258,6 +258,6 @@
 - Grazas - Thank you
 - Por favor - Please
 - Desculpa / Perdón - Sorry
-- Bo día - Good morning
+- Bos días - Good morning
 - Boas tardes - Good afternoon
 - Boas noites - Good evening/night

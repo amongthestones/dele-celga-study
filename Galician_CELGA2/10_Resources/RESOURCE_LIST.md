@@ -49,9 +49,9 @@
   - Word of the day
   - Language games
 
-- **Bos días, benvidos** - ctv.es/bondia
-  - Video lessons
-  - Cultural content
+- **Ben Falado!** (TVG / CRTVG archive) - crtvg.es
+  - Short clips on usage, vocabulary and common mistakes
+  - Great for quick daily exposure
 
 ### Language Apps
 - **Galego** (app) - Basic vocabulary
@@ -124,7 +124,7 @@
 | Praza Pública | praza.gal |
 | Nós Diario | nosdiario.gal |
 | Galicia Confidencial | galiciaconfidencial.com |
-| Sermos Galiza | sermosgaliza.gal |
+| GCiencia (ciencia en galego) | gciencia.com |
 
 ### Magazines
 - *Tempos Novos* - Culture and society
@@ -172,10 +172,10 @@
 
 ## WRITING RESOURCES
 
-### Grammar Checkers
-- **Gasjest** - Spell checker
-- **LanguageTool** - Galician support
-- **Xerais corrector** - Online tool
+### Grammar & Spell Checkers
+- **LanguageTool** - has Galician support (browser extension + web)
+- **Corrector ortográfico da RAG** - official spell checker (academia.gal)
+- **Galgo / OpenOffice-LibreOffice Galician dictionary** - offline spell checking
 
 ### Writing Practice
 - Keep a journal in Galician

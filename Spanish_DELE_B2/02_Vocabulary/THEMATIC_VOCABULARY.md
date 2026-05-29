@@ -40,7 +40,7 @@
 | degradar | to degrade | *La actividad industrial ha degradado gravemente los suelos de la región.* | F |
 | el vertedero | landfill / dump | *El uso de vertederos debería reducirse radicalmente como política pública.* | N |
 | la escasez de agua | water scarcity | *La escasez de agua ya afecta a regiones enteras del sur de Europa.* | F |
-| la biodegradable | biodegradable | *Los envases biodegradables no son siempre tan ecológicos como parecen.* | N |
+| biodegradable (adj.) | biodegradable | *Los envases biodegradables no son siempre tan ecológicos como parecen.* | N |
 | la transición energética | energy transition | *La transición energética plantea retos socioeconómicos en las regiones carboneras.* | F |
 | el calentamiento global | global warming | See above | N |
 | el acuerdo climático | climate agreement | *El cumplimiento de los acuerdos climáticos internacionales sigue siendo voluntario.* | F |
@@ -253,7 +253,7 @@
 | la poesía | poetry | *La poesía es el género que más resiste a la traducción y el más fiel a su lengua original.* | N |
 | el teatro | theater | *El teatro en vivo ofrece una experiencia que ningún medio digital ha podido replicar.* | N |
 | el guion | script/screenplay | *Un buen guion puede sobrevivir a una dirección mediocre; lo contrario rara vez funciona.* | N |
-| la dramaturgía | dramaturgy | *La dramaturgía contemporánea cuestiona la separación tradicional entre texto y puesta en escena.* | F |
+| la dramaturgia | dramaturgy | *La dramaturgia contemporánea cuestiona la separación tradicional entre texto y puesta en escena.* | F |
 
 ---
 

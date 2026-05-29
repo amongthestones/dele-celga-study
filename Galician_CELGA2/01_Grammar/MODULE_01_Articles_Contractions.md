@@ -104,14 +104,16 @@ One of the most distinctive features of Galician is its system of article contra
 
 ### With Preposition "para" (for, to)
 
-| + Article | = Contraction | Example |
-|-----------|---------------|---------|
-| para + o | **para o** or **pro** | É pro neno (It's for the boy) |
-| para + a | **para a** or **pra** | Pra muller (For the woman) |
-| para + os | **para os** or **pros** | Pros estudantes |
-| para + as | **para as** or **pras** | Pras nenas |
+**In the standard (RAG/ILG normative), "para" does NOT contract with the article.** Keep them as separate words:
 
-*Note: The shorter forms (pro, pra, pros, pras) are common in speech*
+| Prep + Article | Standard form | Example |
+|-----------|---------------|---------|
+| para + o | **para o** | É para o neno (It's for the boy) |
+| para + a | **para a** | É para a muller (It's for the woman) |
+| para + os | **para os** | Traballo para os estudantes |
+| para + as | **para as** | Regalos para as nenas |
+
+> ⚠️ **CELGA warning:** You will hear the colloquial reduced forms *pra, pró, prá, prós, prás* in speech, but they are **not** the normative written standard. In the exam, write **para o / para a / para os / para as**.
 
 ### With Preposition "tras" (after, behind)
 
